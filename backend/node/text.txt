@@ -1,0 +1,2 @@
+Hi People, i am writing the file using FS Module.
+This is appended text for node module
